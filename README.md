@@ -4,7 +4,7 @@ A motivational fitness iOS app to track workouts and fuel progress through perso
 
 ---
 
-## 🚀 Features
+## Features
 
 ### 🏋️ Workout Logging
 - Log custom workouts across multiple sports (e.g., swimming, running, gym)
@@ -16,7 +16,7 @@ A motivational fitness iOS app to track workouts and fuel progress through perso
 - Smart rest tracking and recovery prompts
 - Progress charts to avoid burnout and stay balanced
 
-### 🍎 AI-Based Nutrition Suggestions
+### 🍎 AI-Based Workout/Recovery/Nutrition Suggestions
 - GPT-powered post-workout nutrition tips
 - Suggestions tailored to workout intensity and recovery needs
 - Optional food log for diet reflection
@@ -27,7 +27,7 @@ A motivational fitness iOS app to track workouts and fuel progress through perso
 - Milestone tracking to celebrate progress
 
 
-## 📱 Tech Stack
+## Tech Stack
 
 - **Language**: Swift + SwiftUI  
 - **Data Storage**: CoreData (or Firebase – optional)  
@@ -36,11 +36,11 @@ A motivational fitness iOS app to track workouts and fuel progress through perso
 - **Charts**: Swift Charts (or Charts library)
 
 
-## 🧠 Sample GPT Prompt
+## Sample GPT Prompt
 > “The user completed a 45-minute HIIT workout today and had a heavy swim session yesterday. Suggest a recovery-focused nutrition plan including hydration, carbs, and protein.”
 
 
-## 🛠 Setup Instructions
+## Setup
 
 1. Clone this repo:
    ```bash
@@ -51,7 +51,7 @@ A motivational fitness iOS app to track workouts and fuel progress through perso
 4. Run on a simulator or physical device (iOS 16+ recommended)
 
 
-## 💬 Contributions
+## Contributions
 
 Contributions are welcome! If you want to help improve **Pace**, here’s how you can get involved:
 
